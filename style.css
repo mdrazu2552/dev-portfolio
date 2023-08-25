@@ -244,3 +244,6 @@ textarea{
     border: 1px solid #ddd !important;
     padding: 10px;
 }
+input[type="submit"]{
+    border: none;
+}
