@@ -110,15 +110,21 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+.info-box {
+    border: 1px solid #ddd;
+    padding: 10px 24px;
+}
 .info-box p{
     font-size: 20px;
     color: #757575;
+
 }
 .info-box h4{
     font-size: 20px;
     color: #474747;
     margin-top: 10px;
 }
+
 
 
 /* What I do section style */
